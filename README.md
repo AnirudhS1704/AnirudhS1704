@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirudhs1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudhs1704" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anirudh_s_1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg/#5B4638" alt="anirudh_s_1704" height="30" width="40"/></a>
+<a href="https://www.codechef.com/users/anirudh_s_1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg/white" alt="anirudh_s_1704" height="30" width="40"/></a>
 <a href="https://www.leetcode.com/anirudhs1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudhs1704" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anirudhsuma2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anirudhsuma2003" height="30" width="40" /></a>
 </p>
