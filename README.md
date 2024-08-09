@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Flutter, Android, MERN**
 
-- 📫 How to reach me **anirudh.suma2003@gmail.com**
+- 📫 Reach me at **anirudh.suma2003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
